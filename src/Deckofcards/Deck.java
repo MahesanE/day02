@@ -32,6 +32,7 @@ public class Deck{
                 deck.set(toSwap,c);
                 //set is to replace. add is to add into that slot and shift down.
             }
+            
         
     }
 
